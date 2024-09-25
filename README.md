@@ -56,6 +56,3 @@ Contributions are welcome! If you have any suggestions, ideas, or improvements, 
 - **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/sisriksha-dhakal-1877a517a/)
 - **Email**: binitadeuja66@gmail.com
 
----
-
-You can adjust this README file according to your projects and details. Let me know if you'd like to add anything specific!
